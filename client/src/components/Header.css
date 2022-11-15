@@ -1,5 +1,5 @@
 .site-page-header-ghost-wrapper {
-  padding: 2px;
+  padding: 12px;
   background-color: #131921;
 }
 
@@ -21,12 +21,12 @@
 
 
 .logo {
-  height: 40px;
-  margin-right: 20px;
+  height: 55px;
+  margin-right: 10px;
 }
 
 .flag {
-  height: 15px;
+  height: 35px;
 }
 
 .header-icon {

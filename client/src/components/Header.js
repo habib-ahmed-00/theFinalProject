@@ -3,7 +3,7 @@ import { useMoralis } from "react-moralis";
 import { Link } from 'react-router-dom';
 import './Header.css'
 import Amazon from "../images/logo.png";
-import USA from "../images/usa.png";
+import USA from "../images/ind.png";
 import BookStore from "../images/bookstore.png";
 import {ShoppingCartOutlined, MenuOutlined} from "@ant-design/icons";
 
